@@ -1,0 +1,14 @@
+[gd_scene format=3 uid="uid://bmr31lsuhis1i"]
+
+[node name="Mundo" type="Node2D"]
+
+[node name="Label" type="Label" parent="."]
+offset_left = 165.0
+offset_top = 155.0
+offset_right = 988.0
+offset_bottom = 285.0
+text = "Para entender la historia Five nights at Freddy\"s, hay que tomar a esta saga como lo que realmente es.
+¿Terror? Sí. Pero más que nada CIENCIA FICCION. ¿Que pasa si dos amigos deciden abrir una pizzeria?
+Lo normal seria que todo vaya relativamente bien con algun que otro problema pero nada más alla de eso.
+Ahora, la pregunta cambia totalmente si nos preguntamos: ¿Que pasaria si Henry y Wiliam abren una 
+pizzeria?"
