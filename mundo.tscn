@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://c4ed1ks3k4vrh"]
+
+[node name="mundo" type="Node2D"]
+
+[node name="Label" type="Label" parent="."]
+offset_left = 338.0
+offset_top = 180.0
+offset_right = 438.0
+offset_bottom = 206.0
+text = "Hola mundo!"
